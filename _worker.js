@@ -1,8 +1,8 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '';
-let proxyIP = '';
+let userID = 'd5003307-2fe9-4f26-a297-ce9ac05b3475';
+let proxyIP = 'bpb.yousef.isegaro.com';
 let DNS64Server = '';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
